@@ -22,5 +22,9 @@
   "homepage": "https://github.com/nruffin95/team-profile-generator#readme",
   "devDependencies": {
     "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "heroku": "^7.60.2",
+    "inquirer": "^8.2.4"
   }
 }
